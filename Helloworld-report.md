@@ -3,7 +3,7 @@ The etherscan contract adress : https://sepolia.etherscan.io/address/0x9548d41a9
 
 The contract was deployed to sepolia ethereum testnet network the functions in this contract are : 
 
-## helloWorld(): \
+## helloWorld(): 
 This function doe snot need arguments and returns a string "Hello World".
 
 ## setText: 
